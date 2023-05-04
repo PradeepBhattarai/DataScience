@@ -1,4 +1,4 @@
-# learningDataScience
+# DataScience_Basics
 This is skills based learning of how to handle data and all  stuffs related with data using data handling tools .
 Used Tools:
 Ide:Jupyter Notebook
